@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/708
     wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41543#L--k-rin-kohtaloeli-Sairaalan-n-o-6
 gutenberg_issued: '2012-12-03'
 gutenberg_type: Text
 identifiers:
