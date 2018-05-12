@@ -1,0 +1,42 @@
+_repo: L--k-rin-kohtaloeli-Sairaalan-n-o-6_41543
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Mannstén, Emil
+    alias: Mannsten, Emil
+    birthdate: 1873
+    deathdate: 1944
+    gutenberg_agent_id: '9320'
+    url: http://www.gutenberg.org/2009/agents/9320
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Chekov, Anton Pavlovich
+    - Tshehov, Anton
+    - Tchekhov, Anton
+    - Чехов, Антон Павлович
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2012-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41543'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychiatric hospitals -- Fiction'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcc 'PG'
+- !lcsh 'Russia -- Fiction'
+title: 'Lääkärin kohtalo: eli Sairaalan n:o 6'
+url: http://www.gutenberg.org/ebooks/41543
